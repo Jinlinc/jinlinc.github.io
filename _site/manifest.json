@@ -1,0 +1,17 @@
+{
+  "lang": "en-GB",
+  "name": "Jinlin Chen",
+  "short_name": "JinlinChen",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  
+    "icons": [
+      
+        {
+          "src": "/assets/logos/icon.jpg",
+          "sizes": "160x160"
+        }
+      
+    ],"start_url": "/",
+  "display": "standalone"
+}
