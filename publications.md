@@ -5,6 +5,39 @@ layout: page
 
 My [Google Scholar](https://scholar.google.com/citations?user=t6Vum2QAAAAJ&hl=en&oi=ao) profile.
 
+# In Preperation
+
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/commCage.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">Heatwave and warming induce distinctive community responses through their interactions with a novel species</b><br>
+    <i><b>Chen, J.*</b>, & Lewis, O. T.</i><br>
+    <a href="mailto:jinlin.chen@zoo.ox.ac.uk">
+        Please email me for more information.
+    </a><br>
+  </div>
+</div>
+&nbsp;
+
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/multistressor.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">Cryptic host-parastioid interaction enhances host population’s resistance to heatwave</b><br>
+    <i><b>Chen, J.*</b>, & Lewis, O. T.</i><br>
+    <a href="mailto:jinlin.chen@zoo.ox.ac.uk">
+        Please email me for more information.
+    </a><br>
+  </div>
+</div>
+&nbsp;
 
 # 2022
 
@@ -16,7 +49,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=t6Vum2QAAAAJ&hl=en
 
   <div style="flex:2.5;">
     <b style="font-size: 100%;">Factors determining distributions of rainforest Drosophila shift from interspecific competition to high temperature with decreasing elevation</b><br>
-    <i><b>Chen, J.*</b>, & Lewis, O.</i><br>
+    <i><b>Chen, J.*</b>, & Lewis, O. T.</i><br>
     <a href="https://doi.org/10.1101/2022.04.01.486700">
         BioRxiv
     </a><br>
