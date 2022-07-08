@@ -79,6 +79,11 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
   </li>
 
   <li>
+    Demonstrator and assisting lecturer, Programming in R (refresher)
+    <span style="float:right; color:#7a7a7a;">Oxford, 2022</span> <br>
+  </li>
+  
+  <li>
     Facilitator, MBiol journal club course
     <span style="float:right; color:#7a7a7a;">Oxford, 2022</span> <br>
   </li>
