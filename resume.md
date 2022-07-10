@@ -110,12 +110,12 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
 
   <li>
     Teaching assistant, Mathematical modeling in Biology (edX)
-    <span style="float:right; color:#7a7a7a;">Peking Univ., 2016</span> <br>
+    <span style="float:right; color:#7a7a7a;">PKU, 2016</span> <br>
   </li>
 
   <li>
     Teaching assistant, Genetics
-    <span style="float:right; color:#7a7a7a;">Peking Univ., 2016</span> <br>
+    <span style="float:right; color:#7a7a7a;">PKU, 2016</span> <br>
   </li>
 
 </ul>

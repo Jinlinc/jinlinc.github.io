@@ -5,7 +5,7 @@ layout: page
 
 My [Google Scholar](https://scholar.google.com/citations?user=t6Vum2QAAAAJ&hl=en&oi=ao) profile.
 
-# In Preperation
+# In Preparation
 
 <div style="display:flex;">
 
