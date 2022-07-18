@@ -176,7 +176,7 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
 
   <li>
     <b>Biology Eurofins Foundation through University of Oxford </b>
-    <span style="float:right; color:#7a7a7a;">2020</span> <br>
+    <span style="float:right; color:#7a7a7a;">2022</span> <br>
     <i>Research Project Support</i>
   </li>
 
