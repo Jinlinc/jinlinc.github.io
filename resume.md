@@ -175,6 +175,12 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
   </li>
 
   <li>
+    <b>Biology Eurofins Foundation through University of Oxford </b>
+    <span style="float:right; color:#7a7a7a;">2020</span> <br>
+    <i>Research Project Support</i>
+  </li>
+
+  <li>
     <b>The Queen’s College, University of Oxford </b>
     <span style="float:right; color:#7a7a7a;">2020</span> <br>
     <i>Academic Support Grant</i>
