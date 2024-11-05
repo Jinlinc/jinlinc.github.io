@@ -31,9 +31,25 @@ My [Google Scholar](https://scholar.google.com/citations?user=t6Vum2QAAAAJ&hl=en
 
   <div style="flex:2.5;">
     <b style="font-size: 100%;">Transgenerational effects increase the vulnerability of a host-parasitoid system to rising temperatures</b><br>
-    <i>Bright N. L., <b>Chen, J.*</b>, Terry, J. C. D.</i><br>
+    <i>Bright N. L., <b>Chen, J.</b>, Terry, J. C. D.</i><br>
     <a href="https://doi.org/10.1101/2024.08.16.608228">
         BioRxiv
+    </a><br>
+  </div>
+</div>
+&nbsp;
+
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/elegens.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">Warming during different life stages has distinct impacts on host resistance ecology and evolution</b><br>
+    <i>Li, J., Smith, C., <b>Chen, J.</b>, & King, K.</i><br>
+    <a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/218785/preprint_pdf/aa75e409d91726f117e0eef42c89ee26.pdf">
+        Authorea preprint
     </a><br>
   </div>
 </div>
