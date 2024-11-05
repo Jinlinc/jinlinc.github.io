@@ -33,13 +33,15 @@ layout: page
 <br style="line-height:10%;">
 I am a community ecologist who is also passionate about nature conservation, sustainability, and environmental justice. I am interested in studying population dynamics, species interactions and the impact of anthropogenic activities on ecological processes and functioning.
 
-I'm a PhD student in Zoology with [Owen Lewis](https://communityecology.zoo.ox.ac.uk/) at [Oxford](http://www.ox.ac.uk/). Here, I study the thermal response of different biological levels (i.e. organisms, populations and communities) and apply this knowledge to understand species distribution and predict their response to climate change. The research uses a highly versatile experimental system ------ rainforest <i>Drosophila</i> and their natural enemies, parasitoid wasps. This bi-trophic system with multiple hosts and multiple parasitoid species enables me to step into the complexity of the direct and indirect biological effects of climate change. In the future, I am particularly interested in studying similar topics in areas such as epidemiology, biological invasion, and agriculture management.
+I'm a postdoc with [Owen Lewis](https://communityecology.zoo.ox.ac.uk/) at [Oxford](http://www.ox.ac.uk/). My current research focus is on the legacy of extreme events on biological communities. Extreme events open up a transient stage where evolutionary and ecological processes happen at a fast pace, interacting with each other to decide how the post-extreme communities will rewire. I am using manipulative experiments (semi-field) to explore if and how extreme temperature events will increase/decrease the resilience of biological communities to increasingly variable climates in the future. Additionally, I am collaborating on projects related to the evolutionary adaptation to variable thermal environments, the thermal ecology of parasitoids, and the role of endosymbiont/pathogen on host-parasitoid/parasite interactions.
 
-Previously in my undergraduate study, I explored multiple research topics such as neurobiology, population genetics and biodiversity conservation. My undergraduate thesis was on individual-based simulation to infer the dispersal patterns of the white-headed langur.
+My main work relies on a highly versatile experimental system ------ rainforest <i>Drosophila</i> and their natural enemies, parasitoid wasps. This multi-trophic system with multiple hosts and parasitoid species has empowered me and my colleagues to study species range, ecological networks, direct and indirect biological effects of climate change, species coexistence and evolution! If you would like to learn more about my projects and the study system, please feel free to contact me directly.
+
+My PhD studies also used this system to study thermal responses across different biological levels (i.e. organisms, populations, and communities). I have applied this knowledge to better understand species distribution and coexistence. Previously in my undergraduate study, I explored multiple research topics such as neurobiology, population genetics and biodiversity conservation. My undergraduate thesis was on individual-based simulation to infer the dispersal patterns of the white-headed langur.
 
 
 ### Contact
-My email is _jinlin.chen (at) zoo.ox.ac.uk_
+My email is _jinlin.chen (at) biology.ox.ac.uk_
 
 <p style="font-size:80%; color:#7a7a7a; text-align:center;">
   Special thanks to Emilien Dupont for help with the website~
