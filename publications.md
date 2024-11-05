@@ -5,23 +5,7 @@ layout: page
 
 My [Google Scholar](https://scholar.google.com/citations?user=t6Vum2QAAAAJ&hl=en&oi=ao) profile.
 
-# In Preparation
-
-<div style="display:flex;">
-
-  <div style="flex:1; padding-right:5%">
-    <img src="{{ site.url }}/imgs/paper-icons/commCage.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
-  </div>
-
-  <div style="flex:2.5;">
-    <b style="font-size: 100%;">Heatwave and warming induce distinctive community responses through their interactions with a novel species</b><br>
-    <i><b>Chen, J.*</b>, & Lewis, O. T.</i><br>
-    <a href="mailto:jinlin.chen@zoo.ox.ac.uk">
-        Please email me for more information.
-    </a><br>
-  </div>
-</div>
-&nbsp;
+# In Submission
 
 <div style="display:flex;">
 
@@ -30,28 +14,64 @@ My [Google Scholar](https://scholar.google.com/citations?user=t6Vum2QAAAAJ&hl=en
   </div>
 
   <div style="flex:2.5;">
-    <b style="font-size: 100%;">Cryptic host-parastioid interaction enhances host population’s resistance to heatwave</b><br>
+    <b style="font-size: 100%;">A cryptic host-parasitoid interaction reduces the impact of heatwaves on host populations</b><br>
     <i><b>Chen, J.*</b>, & Lewis, O. T.</i><br>
-    <a href="mailto:jinlin.chen@zoo.ox.ac.uk">
+    <a href="mailto:jinlin.chen@biology.ox.ac.uk">
         Please email me for more information.
     </a><br>
   </div>
 </div>
 &nbsp;
 
-# 2022
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/transgen1.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">Transgenerational effects increase the vulnerability of a host-parasitoid system to rising temperatures</b><br>
+    <i>Bright N. L., <b>Chen, J.*</b>, Terry, J. C. D.</i><br>
+    <a href="https://doi.org/10.1101/2024.08.16.608228">
+        BioRxiv
+    </a><br>
+  </div>
+</div>
+&nbsp;
+
+
+# 2024
 
 <div style="display:flex;">
 
   <div style="flex:1; padding-right:5%">
-    <img src="{{ site.url }}/imgs/paper-icons/tpc.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/paper-icons/tpc.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:2.5;">
-    <b style="font-size: 100%;">Factors determining distributions of rainforest Drosophila shift from interspecific competition to high temperature with decreasing elevation</b><br>
+    <b style="font-size: 100%;">Limits to species distributions on tropical mountains shift from high temperature to competition as elevation increases</b><br>
     <i><b>Chen, J.*</b>, & Lewis, O. T.</i><br>
-    <a href="https://doi.org/10.1101/2022.04.01.486700">
-        BioRxiv
+    <a href="https://doi.org/10.1002/ecm.1597">
+        Published on Ecological Monographs
+    </a><br>
+  </div>
+</div>
+
+&nbsp;
+
+# 2023
+
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/commCage.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">Experimental heatwaves facilitate invasion and alter species interactions and composition in a tropical host-parasitoid community</b><br>
+    <i><b>Chen, J.*</b>, & Lewis, O. T.</i><br>
+    <a href="https://doi.org/10.1111/gcb.16937">
+        Published on Global Change Biology
     </a><br>
   </div>
 </div>
@@ -70,7 +90,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=t6Vum2QAAAAJ&hl=en
     <b style="font-size: 100%;">Natural enemies have inconsistent impacts on the coexistence of competing species</b><br>
     <i>Terry, J. C. D.*, <b>Chen, J.*</b>, & Lewis, O. T.</i><br>
     <a href="https://doi.org/10.1111/1365-2656.13534">
-        Journal of Animal Ecology, 90(10), 2277-2288
+        Published on Journal of Animal Ecology
     </a><br>
   </div>
 </div>
