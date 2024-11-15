@@ -79,26 +79,21 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
     Table Tennis (Women’s 1st team player)
     <span style="float:right; color:#7a7a7a;">2020-</span> <br>
 -->
-<li>
-    <b>👩‍🔬 Postdoc (University of Oxford)</b>
-    <span style="float:right; color:#7a7a7a;">2023 – 2025 (UK)</span>
-</li>
+
+<b>👩‍🔬 Postdoc (University of Oxford)</b>
+<span style="float:right; color:#7a7a7a;">2023 – 2025 (UK)</span>
     Grant title: The Ecological and Evolutionary Legacy of Extreme Climatic Events for Food Web Resilience. <br>
     PIs: Owen Lewis (University of Oxford) & Jon Bridle (University College London) <br>
     Project Partners: Megan Higgie (James Cook University) & Jan Hrček (Czech Academy of Sciences) <br>
     
-<li>
-    <b>🌊 The Nature Conservancy (Beijing)</b>
-    <span style="float:right; color:#7a7a7a;">Mar-Aug 2018</span>
-</li>
+<b>🌊 The Nature Conservancy (Beijing)</b>
+<span style="float:right; color:#7a7a7a;">Mar-Aug 2018</span>
     Research Intern: Reviewed literature and designed a health assessment framework for small river basins <br>
 
-<li>
-    <b>🐵 The Nature Conservancy (Lijiang)</b>
-    <span style="float:right; color:#7a7a7a;">Feb – Apr 2017</span>
-</li>
-    Developed an R package to analyse wildlife monitoring data by the local petrol team in a convenient and standardized way. <br>
-    Designed and conducted an interview survey of local communities (Diqing Tibetan autonomous prefecture) to investigate the legacy of previous conservation actions. This work led to new ten-year conservation funding from Ant Forest by Alibaba to the interviewed site. <br>
+<b>🐵 The Nature Conservancy (Lijiang)</b>
+<span style="float:right; color:#7a7a7a;">Feb – Apr 2017</span>
+    <li>Developed an R package to analyse wildlife monitoring data by the local petrol team in a convenient and standardized way. <br></li>
+    <li>Designed and conducted an interview survey of local communities (Diqing Tibetan autonomous prefecture) to investigate the legacy of previous conservation actions. This work led to new ten-year conservation funding from Ant Forest by Alibaba to the interviewed site. <br></li>
 
 <li>
     <b>👩🏻‍🏫 Teaching</b>
@@ -175,31 +170,31 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
 
 <ul>
   <li>
-    (upcoming) Trait evolution and ecological legacy in host-parasitoid community following a extreme heatwave event (oral talk) <br>
-    <i>Liverpool, British Ecology Society annual meeting </i>
+    <b>(upcoming) Trait evolution and ecological legacy in host-parasitoid community following a extreme heatwave event (oral talk)</b><br>
+    <i>Liverpool, British Ecology Society annual meeting</i>
     <span style="float:right; color:#7a7a7a;">2024</span> <br>
   </li>
   
   <li>
-    The formation and impact of novel species interactions under climate change (oral talk) <br>
+    <b>The formation and impact of novel species interactions under climate change (oral talk)</b> <br>
     <i>Shenzhen, School of Ecology, Sun Yat-Sen University</i>
     <span style="float:right; color:#7a7a7a;">2024</span> <br>
   </li>
   
   <li>
-    Causes and future drivers of species turnover along elevational gradients (oral talk) <br>
+    <b>Causes and future drivers of species turnover along elevational gradients (oral talk) </b><br>
     <i>Belfast, British Ecology Society annual meeting</i>
     <span style="float:right; color:#7a7a7a;">2023</span> <br>
   </li>
   
   <li>
-    Biological responses to climate change (ECR talk) <br>
+    <b>Biological responses to climate change (ECR talk) </b><br>
     <i>London Natural History Museum, The Explorer Programme Summer Social</i>
     <span style="float:right; color:#7a7a7a;">2022</span> <br>
   </li>
 
   <li>
-    Heatwave and warming induce distinctive community responses through their interactions with a novel species (oral talk) <br>
+    <b>Heatwave and warming induce distinctive community responses through their interactions with a novel species (oral talk) </b><br>
     <i>Leipzig UFZ & iDiv, Frontiers in Experimental Research on Changing Climate</i>
     <span style="float:right; color:#7a7a7a;">2022</span> <br>
     <i>Geneva, 13th International Congress of Ecology</i>
@@ -207,19 +202,19 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
   </li>
 
   <li>
-    Parasitoid interaction history and food quality influence heatwave resistance of Drosophila populations (oral talk) <br>
+    <b>Parasitoid interaction history and food quality influence heatwave resistance of Drosophila populations (oral talk) </b><br>
     <i>Liverpool, British Ecology Society annual meeting</i>
     <span style="float:right; color:#7a7a7a;">2021</span> <br>
   </li>
 
   <li>
-    High temperature structures tropical forest Drosophila communities: evidence from physiological and population level measures (oral talk) <br>
+    <b>High temperature structures tropical forest Drosophila communities: evidence from physiological and population level measures (oral talk) </b><br>
     <i>Festival of Ecology, British Ecology Society annual meeting</i>
     <span style="float:right; color:#7a7a7a;">2020</span> <br>
   </li>
 
   <li>
-    Biodiversity survey in Chongzuo examined effects of the white-headed langur (<i>Trachypithecus leucocephalus</i>) as a flagship species on habitat conservation (poster) <br>
+    <b>Biodiversity survey in Chongzuo examined effects of the white-headed langur (<i>Trachypithecus leucocephalus</i>) as a flagship species on habitat conservation (poster) </b><br>
     <i>Duke Kunshan University, Conservation of China’s Tropical Biodiversity </i>
     <span style="float:right; color:#7a7a7a;">2016</span> <br>
   </li>
