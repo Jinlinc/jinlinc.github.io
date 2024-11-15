@@ -82,7 +82,7 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
 
 <b>👩‍🔬 Postdoc (University of Oxford)</b>
 <span style="float:right; color:#7a7a7a;">2023 – 2025 (UK)</span><br>
-    &nbsp;Grant title: The Ecological and Evolutionary Legacy of Extreme Climatic Events for Food Web Resilience. <br>
+    <p style="margin-top: 20px;">Grant title: The Ecological and Evolutionary Legacy of Extreme Climatic Events for Food Web Resilience. <br></p>
     &nbsp;PIs: Owen Lewis (University of Oxford) & Jon Bridle (University College London) <br>
     &nbsp;Project Partners: Megan Higgie (James Cook University) & Jan Hrček (Czech Academy of Sciences) <br>
     
