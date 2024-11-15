@@ -71,8 +71,8 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
 
 
 ## Work Experience 💫
-<!-- 
 <ul>
+<!-- 
 <li><b>Oxford University Sport Team</b></li>
     Volleyball (Women’s 1st team player; captain of 2020-2021)
     <span style="float:right; color:#7a7a7a;">2018-</span> <br>
