@@ -82,15 +82,15 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
 
 <b>👩‍🔬 Postdoc (University of Oxford)</b>
 <span style="float:right; color:#7a7a7a;">2023 – 2025 (UK)</span><br>
-    Grant title: The Ecological and Evolutionary Legacy of Extreme Climatic Events for Food Web Resilience. <br>
-    PIs: Owen Lewis (University of Oxford) & Jon Bridle (University College London) <br>
-    Project Partners: Megan Higgie (James Cook University) & Jan Hrček (Czech Academy of Sciences) <br>
+    >Grant title: The Ecological and Evolutionary Legacy of Extreme Climatic Events for Food Web Resilience. <br>
+    >PIs: Owen Lewis (University of Oxford) & Jon Bridle (University College London) <br>
+    >Project Partners: Megan Higgie (James Cook University) & Jan Hrček (Czech Academy of Sciences) <br>
     
-<b>🌊 The Nature Conservancy (Beijing)</b>
+<b>🌊 Research Intern (The Nature Conservancy, Beijing)</b>
 <span style="float:right; color:#7a7a7a;">Mar-Aug 2018</span><br>
-    <li>Research Intern: Reviewed literature and designed a health assessment framework for small river basins <br></li>
+    <li>Reviewed literature and designed a health assessment framework for small river basins <br></li>
 
-<b>🐵 The Nature Conservancy (Lijiang)</b>
+<b>🐵 Volunteer (The Nature Conservancy, Lijiang)</b>
 <span style="float:right; color:#7a7a7a;">Feb – Apr 2017</span><br>
     <li>Developed an R package to analyse wildlife monitoring data by the local petrol team in a convenient and standardized way. <br></li>
     <li>Designed and conducted an interview survey of local communities (Diqing Tibetan autonomous prefecture) to investigate the legacy of previous conservation actions. This work led to new ten-year conservation funding from Ant Forest by Alibaba to the interviewed site. <br></li>
