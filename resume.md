@@ -88,18 +88,18 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
     
 <b>🌍 Research Intern (The Nature Conservancy, Beijing)</b>
 <span style="float:right; color:#7a7a7a;">Mar-Aug 2018</span><br>
-    Reviewed literature and designed a health assessment framework for small river basins.<br>
+    <li>Reviewed literature and designed a health assessment framework for small river basins <br></li>
 
 <b>🌍 Volunteer (The Nature Conservancy, Lijiang)</b>
 <span style="float:right; color:#7a7a7a;">Feb – Apr 2017</span><br>
-    Developed an R package to analyse wildlife monitoring data by the local petrol team in a convenient and standardized way.<br>
-    Designed and conducted an interview survey of local communities (Diqing Tibetan autonomous prefecture) to investigate the legacy of previous conservation actions. This work led to new ten-year conservation funding from Ant Forest by Alibaba to the interviewed site.<br>
-    
+    <li>Developed an R package to analyse wildlife monitoring data by the local petrol team in a convenient and standardized way. <br></li>
+    <li>Designed and conducted an interview survey of local communities (Diqing Tibetan autonomous prefecture) to investigate the legacy of previous conservation actions. This work led to new ten-year conservation funding from Ant Forest by Alibaba to the interviewed site. <br></li>
+
 <b>👩🏻‍🏫 Teaching</b><br>
-    Day-to-day supervision or co-supervision for Master of Biology students in 2024 (Natalie Bright), 2023 (Nancie Bowley), and 2022 (Eloise Newman).<br>
-    Day-to-day supervision or co-supervision for undergraduate research projects in 2024 (Valentino Pallini and Letti Lee), 2020 (Maryam Binti Mohd Hafiz), and 2019 (Julia Cypar and Ellie Jarvis).<br>
-    Lecturering in "<i>MBiol journal club: analysing and criticising research articles</i>" and "<i>Doctoral Training Centre statistics and data management course</i>".<br>
-    Teaching assistant in "<i>Programming in R (refresher) course</i>", "<i>Climate envelope model practice</i>", "<i>Mathematical modelling in Biology</i>", and "<i>Genetics</i>".<br>
+    <li>Day-to-day supervision or co-supervision for Master of Biology students in 2024 (Natalie Bright), 2023 (Nancie Bowley), and 2022 (Eloise Newman).<br></li>
+    <li>Day-to-day supervision or co-supervision for undergraduate research projects in 2024 (Valentino Pallini and Letti Lee), 2020 (Maryam Binti Mohd Hafiz), and 2019 (Julia Cypar and Ellie Jarvis).<br></li>
+    <li>Lecturering in "<i>MBiol journal club: analysing and criticising research articles</i>" and "<i>Doctoral Training Centre statistics and data management course</i>". <br></li>
+    <li>Teaching assistant in "<i>Programming in R (refresher) course</i>", "<i>Climate envelope model practice</i>", "<i>Mathematical modelling in Biology</i>", and "<i>Genetics</i>". <br></li>
 
 </ul>
 
