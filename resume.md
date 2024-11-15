@@ -82,24 +82,24 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
 
 <b>👩‍🔬 Postdoc (University of Oxford)</b>
 <span style="float:right; color:#7a7a7a;">2023 – 2025 (UK)</span><br>
-    <p style="margin-top: 20px;">Grant title: The Ecological and Evolutionary Legacy of Extreme Climatic Events for Food Web Resilience. <br></p>
-    &nbsp;PIs: Owen Lewis (University of Oxford) & Jon Bridle (University College London) <br>
-    &nbsp;Project Partners: Megan Higgie (James Cook University) & Jan Hrček (Czech Academy of Sciences) <br>
+    Grant title: The Ecological and Evolutionary Legacy of Extreme Climatic Events for Food Web Resilience. <br>
+    PIs: Owen Lewis (University of Oxford) & Jon Bridle (University College London) <br>
+    Project Partners: Megan Higgie (James Cook University) & Jan Hrček (Czech Academy of Sciences) <br>
     
 <b>🌍 Research Intern (The Nature Conservancy, Beijing)</b>
 <span style="float:right; color:#7a7a7a;">Mar-Aug 2018</span><br>
-    &nbsp;<li>Reviewed literature and designed a health assessment framework for small river basins <br></li>
+    <li>Reviewed literature and designed a health assessment framework for small river basins <br></li>
 
 <b>🌍 Volunteer (The Nature Conservancy, Lijiang)</b>
 <span style="float:right; color:#7a7a7a;">Feb – Apr 2017</span><br>
-    &nbsp;<li>Developed an R package to analyse wildlife monitoring data by the local petrol team in a convenient and standardized way. <br></li>
-    &nbsp;<li>Designed and conducted an interview survey of local communities (Diqing Tibetan autonomous prefecture) to investigate the legacy of previous conservation actions. This work led to new ten-year conservation funding from Ant Forest by Alibaba to the interviewed site. <br></li>
+    <li>Developed an R package to analyse wildlife monitoring data by the local petrol team in a convenient and standardized way. <br></li>
+    <li>Designed and conducted an interview survey of local communities (Diqing Tibetan autonomous prefecture) to investigate the legacy of previous conservation actions. This work led to new ten-year conservation funding from Ant Forest by Alibaba to the interviewed site. <br></li>
 
 <b>👩🏻‍🏫 Teaching</b><br>
-    &nbsp;<li>Day-to-day supervision or co-supervision for Master of Biology students in 2024 (Natalie Bright), 2023 (Nancie Bowley), and 2022 (Eloise Newman).<br></li>
-    &nbsp;<li>Day-to-day supervision or co-supervision for undergraduate research projects in 2024 (Valentino Pallini and Letti Lee), 2020 (Maryam Binti Mohd Hafiz), and 2019 (Julia Cypar and Ellie Jarvis).<br></li>
-    &nbsp;<li>Lecturering in "*MBiol journal club: analysing and criticising research articles*" and "*Doctoral Training Centre statistics and data management course*". <br></li>
-    &nbsp;<li>Teaching assistant in "*Programming in R (refresher) course*", "*Climate envelope model practice*", "*Mathematical modelling in Biology*", and "*Genetics*". <br></li>
+    <li>Day-to-day supervision or co-supervision for Master of Biology students in 2024 (Natalie Bright), 2023 (Nancie Bowley), and 2022 (Eloise Newman).<br></li>
+    <li>Day-to-day supervision or co-supervision for undergraduate research projects in 2024 (Valentino Pallini and Letti Lee), 2020 (Maryam Binti Mohd Hafiz), and 2019 (Julia Cypar and Ellie Jarvis).<br></li>
+    <li>Lecturering in "*MBiol journal club: analysing and criticising research articles*" and "*Doctoral Training Centre statistics and data management course*". <br></li>
+    <li>Teaching assistant in "*Programming in R (refresher) course*", "*Climate envelope model practice*", "*Mathematical modelling in Biology*", and "*Genetics*". <br></li>
 
 </ul>
 
