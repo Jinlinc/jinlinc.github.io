@@ -85,8 +85,7 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
     Grant title: The Ecological and Evolutionary Legacy of Extreme Climatic Events for Food Web Resilience. <br>
     PIs: Owen Lewis (University of Oxford) & Jon Bridle (University College London) <br>
     Project Partners: Megan Higgie (James Cook University) & Jan Hrček (Czech Academy of Sciences) <br>
-
-
+    
 <b>🌍 Research Intern (The Nature Conservancy, Beijing)</b>
 <span style="float:right; color:#7a7a7a;">Mar-Aug 2018</span><br>
     <li>Reviewed literature and designed a health assessment framework for small river basins <br></li>
