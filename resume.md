@@ -82,27 +82,27 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
 
 <b>👩‍🔬 Postdoc (University of Oxford)</b>
 <span style="float:right; color:#7a7a7a;">2023 – 2025 (UK)</span><br>
-<p style="margin:30px">
-    Grant title: The Ecological and Evolutionary Legacy of Extreme Climatic Events for Food Web Resilience. <br>
+<p style="margin:30px">Grant title: The Ecological and Evolutionary Legacy of Extreme Climatic Events for Food Web Resilience. <br>
     PIs: Owen Lewis (University of Oxford) & Jon Bridle (University College London) <br>
     Project Partners: Megan Higgie (James Cook University) & Jan Hrček (Czech Academy of Sciences) <br>
 </p> 
 
 <b>🌍 Research Intern (The Nature Conservancy, Beijing)</b>
 <span style="float:right; color:#7a7a7a;">Mar-Aug 2018</span><br>
-    <li>Reviewed literature and designed a health assessment framework for small river basins <br></li>
+<p style="margin:30px"><li>Reviewed literature and designed a health assessment framework for small river basins <br></li></p> 
 
 <b>🌍 Volunteer (The Nature Conservancy, Lijiang)</b>
 <span style="float:right; color:#7a7a7a;">Feb – Apr 2017</span><br>
-    <li>Developed an R package to analyse wildlife monitoring data by the local petrol team in a convenient and standardized way. <br></li>
+<p style="margin:30px"><li>Developed an R package to analyse wildlife monitoring data by the local petrol team in a convenient and standardized way. <br></li>
     <li>Designed and conducted an interview survey of local communities (Diqing Tibetan autonomous prefecture) to investigate the legacy of previous conservation actions. This work led to new ten-year conservation funding from Ant Forest by Alibaba to the interviewed site. <br></li>
+</p> 
 
 <b>👩🏻‍🏫 Teaching</b><br>
-    <li>Day-to-day supervision or co-supervision for Master of Biology students in 2024 (Natalie Bright), 2023 (Nancie Bowley), and 2022 (Eloise Newman).<br></li>
+<p style="margin:30px"><li>Day-to-day supervision or co-supervision for Master of Biology students in 2024 (Natalie Bright), 2023 (Nancie Bowley), and 2022 (Eloise Newman).<br></li>
     <li>Day-to-day supervision or co-supervision for undergraduate research projects in 2024 (Valentino Pallini and Letti Lee), 2020 (Maryam Binti Mohd Hafiz), and 2019 (Julia Cypar and Ellie Jarvis).<br></li>
     <li>Lecturering in "<i>MBiol journal club: analysing and criticising research articles</i>" and "<i>Doctoral Training Centre statistics and data management course</i>". <br></li>
     <li>Teaching assistant in "<i>Programming in R (refresher) course</i>", "<i>Climate envelope model practice</i>", "<i>Mathematical modelling in Biology</i>", and "<i>Genetics</i>". <br></li>
-
+</p> 
 </ul>
 
 
