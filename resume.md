@@ -109,13 +109,6 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
     Lecturering in "*MBiol journal club: analysing and criticising research articles*" and "*Doctoral Training Centre statistics and data management course*". <br>
     Teaching assistant in "*Programming in R (refresher) course*", "*Climate envelope model practice*", "*Mathematical modelling in Biology*", and "*Genetics*". <br>
 
-<li>
-    <b>Summer Social Practice: Fishery Reform Investigation</b>
-    <span style="float:right; color:#7a7a7a;">July 2014</span>
-</li>
-    Interviewed people from various backgrounds to record existing problems and exemplary practices in Chinese fishery industry. <br>
-    Represent the team to presented this work at Peking University Summer Social Practice Contest and won the first place. <br>
-
 </ul>
 
 
