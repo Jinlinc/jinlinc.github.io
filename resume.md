@@ -3,7 +3,7 @@ title: Resume
 layout: page
 ---
 
-Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here](https://github.com/Jinlinc/jinlinc.github.io/raw/master/jinlin_CV_2022.pdf) (updated June 2022).
+Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here](https://github.com/Jinlinc/jinlinc.github.io/raw/master/CV_Jinlin_Chen_2024Nov_online.pdf) (updated November 2024).
 
 ## Education 🎓
 
@@ -17,7 +17,7 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
   <div style="flex:4;">
     <p style="margin:0px">
       <b style="font-size: 130%;">University of Oxford</b>
-      <span style="float:right; color:#7a7a7a;">2018 - </span>
+      <span style="float:right; color:#7a7a7a;">2018 - 2022 </span>
     </p>
     PhD in Zoology <br>
     <p style="color:#7a7a7a">
@@ -70,89 +70,44 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
 </div>
 
 
-## Teaching 👩🏻‍🏫
-
-<ul>
-  <li>
-    Co-supervisor, Master project in Biology (<i>effect of temperature on interspecific aggression behaviour</i>)
-    <span style="float:right; color:#7a7a7a;">Oxford, 2021-2022</span> <br>
-  </li>
-
-  <li>
-    Assisting lecturer, Programming in R (refresher)
-    <span style="float:right; color:#7a7a7a;">Oxford, 2022</span> <br>
-  </li>
-
-  <li>
-    Facilitator, MBiol journal club course
-    <span style="float:right; color:#7a7a7a;">Oxford, 2022</span> <br>
-  </li>
-
-  <li>
-    Facilitator, DTC statistics and data management course
-    <span style="float:right; color:#7a7a7a;">Oxford, 2021</span> <br>
-  </li>
-
-  <li>
-    Demonstrator, Workshop on climate envelope model
-    <span style="float:right; color:#7a7a7a;">Oxford, 2021</span> <br>
-  </li>
-
-  <li>
-    Co-supervisor, Undergraduate research project in Biology
-    <span style="float:right; color:#7a7a7a;">Oxford, 2020</span> <br>
-  </li>
-
-  <li>
-    Co-supervisor, Undergraduate research project in Biology
-    <span style="float:right; color:#7a7a7a;">Oxford, 2019</span> <br>
-  </li>
-
-  <li>
-    Teaching assistant, Mathematical modeling in Biology (edX)
-    <span style="float:right; color:#7a7a7a;">PKU, 2016</span> <br>
-  </li>
-
-  <li>
-    Teaching assistant, Genetics
-    <span style="float:right; color:#7a7a7a;">PKU, 2016</span> <br>
-  </li>
-
-</ul>
-
-## Experience 💫
-
+## Work Experience 💫
+<!-- 
 <ul>
 <li><b>Oxford University Sport Team</b></li>
     Volleyball (Women’s 1st team player; captain of 2020-2021)
     <span style="float:right; color:#7a7a7a;">2018-</span> <br>
     Table Tennis (Women’s 1st team player)
     <span style="float:right; color:#7a7a7a;">2020-</span> <br>
-
+-->
 <li>
-    <b>The Nature Conservancy</b>
+    <b>👩‍🔬 Postdoc (University of Oxford)</b>
+    <span style="float:right; color:#7a7a7a;">2023 – 2025 (UK)</span>
+</li>
+    Grant title: The Ecological and Evolutionary Legacy of Extreme Climatic Events for Food Web Resilience. <br>
+    PIs: Owen Lewis (University of Oxford) & Jon Bridle (University College London) <br>
+    Project Partners: Megan Higgie (James Cook University) & Jan Hrček (Czech Academy of Sciences) <br>
+    
+<li>
+    <b>🌊 The Nature Conservancy (Beijing)</b>
     <span style="float:right; color:#7a7a7a;">Mar-Aug 2018</span>
 </li>
-    Research Intern to design a health assessment framework for small river basin <br>
+    Research Intern: Reviewed literature and designed a health assessment framework for small river basins <br>
 
 <li>
-    <b>Research Assistant</b>
-    <span style="float:right; color:#7a7a7a;">May 2017</span>
-</li>
-    Fieldwork Assistant to investigate shorebirds’ spatial usage of tidal area (with Mu Tong) <br>
-
-<li>
-    <b>The Nature Conservancy</b>
+    <b>🐵 The Nature Conservancy (Lijiang)</b>
     <span style="float:right; color:#7a7a7a;">Feb – Apr 2017</span>
 </li>
-    Developed an R package to analyse wildlife monitoring data by local petrol team in a standardized and convenient way. <br>
-    Conducted an interview survey of local communities to investigate sustainability of previous conservation actions. This work led to new 10-year conservation funding from Ant Forest by Alibaba to the interview site. <br>
+    Developed an R package to analyse wildlife monitoring data by the local petrol team in a convenient and standardized way. <br>
+    Designed and conducted an interview survey of local communities (Diqing Tibetan autonomous prefecture) to investigate the legacy of previous conservation actions. This work led to new ten-year conservation funding from Ant Forest by Alibaba to the interviewed site. <br>
 
 <li>
-    <b>Peking University Greenlife Society</b>
+    <b>👩🏻‍🏫 Teaching</b>
     <span style="float:right; color:#7a7a7a;">2013 – 2016</span>
 </li>
-    Coordinate projects of nature education <br>
+    Day-to-day supervision or co-supervision for Master of Biology students in 2024 (Natalie Bright), 2023 (Nancie Bowley), and 2022 (Eloise Newman).<br>
+    Day-to-day supervision or co-supervision for undergraduate research projects in 2024 (Valentino Pallini and Letti Lee), 2020 (Maryam Binti Mohd Hafiz), and 2019 (Julia Cypar and Ellie Jarvis).<br>
+    Lecturering in "*MBiol journal club: analysing and criticising research articles*" and "*Doctoral Training Centre statistics and data management course*". <br>
+    Teaching assistant in "*Programming in R (refresher) course*", "*Climate envelope model practice*", "*Mathematical modelling in Biology*", and "*Genetics*". <br>
 
 <li>
     <b>Summer Social Practice: Fishery Reform Investigation</b>
@@ -164,14 +119,12 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
 </ul>
 
 
-
 ## Awards 🌟
-
 <ul>
   <li>
-    <b>Chinese Government Scholarship (CSC)</b>
-    <span style="float:right; color:#7a7a7a;">2018-2022</span> <br>
-    <i>PhD funding</i>
+    <b>UK Natural Environment Research Council (NERC) standard grant (named postdoc)</b>
+    <span style="float:right; color:#7a7a7a;">2023-2025</span> <br>
+    <i>The Ecological and Evolutionary Legacy of Extreme Climatic Events for Food Web Resilience</i>
   </li>
 
   <li>
@@ -225,9 +178,27 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
 </ul>
 
 
-## Conference 🏛️
+## Selected Conference 🏛️
 
 <ul>
+  <li>
+    (upcoming) Trait evolution and ecological legacy in host-parasitoid community following a extreme heatwave event (oral talk) <br>
+    <i>Liverpool, British Ecology Society annual meeting </i>
+    <span style="float:right; color:#7a7a7a;">2024</span> <br>
+  </li>
+  
+  <li>
+    The formation and impact of novel species interactions under climate change (oral talk) <br>
+    <i>Shenzhen, School of Ecology, Sun Yat-Sen University</i>
+    <span style="float:right; color:#7a7a7a;">2024</span> <br>
+  </li>
+  
+  <li>
+    Causes and future drivers of species turnover along elevational gradients (oral talk) <br>
+    <i>Belfast, British Ecology Society annual meeting</i>
+    <span style="float:right; color:#7a7a7a;">2023</span> <br>
+  </li>
+  
   <li>
     Biological responses to climate change (ECR talk) <br>
     <i>London Natural History Museum, The Explorer Programme Summer Social</i>
@@ -237,6 +208,8 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
   <li>
     Heatwave and warming induce distinctive community responses through their interactions with a novel species (oral talk) <br>
     <i>Leipzig UFZ & iDiv, Frontiers in Experimental Research on Changing Climate</i>
+    <span style="float:right; color:#7a7a7a;">2022</span> <br>
+    <i>Geneva, 13th International Congress of Ecology</i>
     <span style="float:right; color:#7a7a7a;">2022</span> <br>
   </li>
 
@@ -253,20 +226,9 @@ Download pdf version of my CV [{% include icon.html id="pdf" title="pdf" %}here]
   </li>
 
   <li>
-    <i>Birmingham, British Ecology Society annual meeting</i>
-    <span style="float:right; color:#7a7a7a;">2018</span> <br>
-  </li>
-
-  <li>
     Biodiversity survey in Chongzuo examined effects of the white-headed langur (<i>Trachypithecus leucocephalus</i>) as a flagship species on habitat conservation (poster) <br>
     <i>Duke Kunshan University, Conservation of China’s Tropical Biodiversity </i>
     <span style="float:right; color:#7a7a7a;">2016</span> <br>
-  </li>
-
-  <li>
-    Behavioural and electrophysiological response of <i>Drosophila</i> gustatory system to acid (oral talk) <br>
-    <i>Peking University, 3rd Symposium of Undergraduate Honour Program of Biology </i>
-    <span style="float:right; color:#7a7a7a;">2015</span> <br>
   </li>
 
 </ul>
