@@ -47,8 +47,8 @@ My [Google Scholar](https://scholar.google.com/citations?user=t6Vum2QAAAAJ&hl=en
 
   <div style="flex:2.5;">
     <b style="font-size: 100%;">Warming during different life stages has distinct impacts on host resistance ecology and evolution</b><br>
-    <i>Li, J., Smith, C., <b>Chen, J.</b>, & King, K.</i><br>
-    <a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/218785/preprint_pdf/aa75e409d91726f117e0eef42c89ee26.pdf">
+    <i>Li, J., Smith, C., <b>Chen, J.</b>, Kieran Bates & King, K.</i><br>
+    <a href="https://www.authorea.com/users/859340/articles/1242594-warming-during-different-life-stages-has-distinct-impacts-on-host-resistance-ecology-and-evolution?commit=d9a4035bf74054d8985393abcdf1670b0c645447">
         Authorea preprint
     </a><br>
   </div>
