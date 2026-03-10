@@ -16,7 +16,7 @@ layout: page
     </a>
     &nbsp;
     <a href="https://github.com/Jinlinc/jinlinc.github.io/raw/master/CV_Jinlin_Chen_2026.pdf">
-      {% include icon.html id="book" title="twitter" %} 
+      {% include icon.html id="pdf" title="pdf" %} 
     </a>
     &nbsp;
     <a href="https://github.com/Jinlinc">
