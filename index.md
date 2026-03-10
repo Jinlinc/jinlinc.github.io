@@ -29,11 +29,11 @@ layout: page
 <br style="line-height:10%;">
 I am a community ecologist who is also passionate about nature conservation, sustainability, and environmental justice. I am interested in studying population dynamics, species interactions and the impact of environmental changes and anthropogenic activities on ecological processes and functioning.
 
-I am newly appointed as [Tenure-track Assistant Professor](https://life.nju.edu.cn/cjl/list.htm) at Nanjing University from 2025, where I'm starting to build my [research group](https://jinlinc.github.io/CEE-NJU/). Previously, I has a few wonderful years at [Oxford](http://www.ox.ac.uk/), first as a PhD student and then as a postdoc working with [Prof. Owen Lewis](https://communityecology.zoo.ox.ac.uk/). 
+I am newly appointed as [Tenure-track Assistant Professor](https://life.nju.edu.cn/cjl/list.htm) at Nanjing University from 2025, where I'm starting to build my [research group](https://jinlinc.github.io/CEE-NJU/). Previously, I spent several wonderful years at [Oxford](http://www.ox.ac.uk/), first as a PhD student and then as a postdoc working with [Prof. Owen Lewis](https://communityecology.zoo.ox.ac.uk/). 
 
-Laying at the heart of my previous work is manipulative experiments, especially focusing on host-parasitoid systems. I study species interactions and how they influence insects' response and adaptation to climate change within interconnected biological communities. Moving back, I am continuing working with the fantastic <i>Drosophila</i>-parasitoid system, while also exploring new systems and topics focusing on the intersection of species interaction, environmental physiology and evolutionary biology. 
+At the heart of my previous work are manipulative experiments, with a particular focus on host-parasitoid systems. I study species interactions and how they shape insects' responses and adaptation to climate change inside interconnected biological communities. Moving forward, I will continue working with the fantastic <i>Drosophila</i>-parasitoid system while also exploring new systems and topics at the intersection of species interaction, environmental physiology, and evolutionary biology.
 
-Long time ago, I have explored multiple research topics such as neurobiology, population genetics and biodiversity conservation. My undergraduate thesis was on individual-based simulation to infer the dispersal patterns of the white-headed langur.
+A long time ago (okay, undergrad), I explored multiple research topics including neurobiology, population genetics, and biodiversity conservation. My undergraduate thesis used individual-based simulations to infer the dispersal patterns of the white-headed langur---a passion for conservation that still runs through everything I do.
 
 
 ### Contact
