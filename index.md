@@ -15,34 +15,30 @@ layout: page
       {% include icon.html id="google-scholar" title="scholar" %}
     </a>
     &nbsp;
-    <a href="https://twitter.com/jinlin0v0">
-      {% include icon.html id="twitter" title="twitter" %}
+    <a href="https://github.com/Jinlinc/jinlinc.github.io/raw/master/CV_Jinlin_Chen_2026.pdf">
+      {% include icon.html id="book" title="twitter" %} 
     </a>
     &nbsp;
     <a href="https://github.com/Jinlinc">
       {% include icon.html id="github" title="github" %}
     </a>
-    <!-- &nbsp;
-    <a href="">
-      {% include icon.html id="linkedin" title="linkedin" %}
-    </a> -->
   </p>
 
 </div>
 
 <br style="line-height:10%;">
-I am a community ecologist who is also passionate about nature conservation, sustainability, and environmental justice. I am interested in studying population dynamics, species interactions and the impact of anthropogenic activities on ecological processes and functioning.
+I am a community ecologist who is also passionate about nature conservation, sustainability, and environmental justice. I am interested in studying population dynamics, species interactions and the impact of environmental changes and anthropogenic activities on ecological processes and functioning.
 
-I'm a postdoc with [Owen Lewis](https://communityecology.zoo.ox.ac.uk/) at [Oxford](http://www.ox.ac.uk/). My current research focus is on the legacy of extreme events on biological communities. Extreme events open up a transient stage where evolutionary and ecological processes happen at a fast pace, interacting with each other to decide how the post-extreme communities will rewire. I am using manipulative experiments (semi-field) to explore if and how extreme temperature events will increase/decrease the resilience of biological communities to increasingly variable climates in the future. Additionally, I am collaborating on projects related to the evolutionary adaptation to variable thermal environments, the thermal ecology of parasitoids, and the role of endosymbiont/pathogen on host-parasitoid/parasite interactions.
+I am newly appointed as [Tenure-track Assistant Professor](https://life.nju.edu.cn/cjl/list.htm) at Nanjing University from 2025, where I'm starting to build my [research group](https://jinlinc.github.io/CEE-NJU/). Previously, I has a few wonderful years at [Oxford](http://www.ox.ac.uk/), first as a PhD student and then as a postdoc working with [Prof. Owen Lewis](https://communityecology.zoo.ox.ac.uk/). 
 
-My main work relies on a highly versatile experimental system ------ rainforest <i>Drosophila</i> and their natural enemies, parasitoid wasps. This multi-trophic system with multiple hosts and parasitoid species has empowered me and my colleagues to study species range, ecological networks, direct and indirect biological effects of climate change, species coexistence and evolution! If you would like to learn more about my projects and the study system, please feel free to contact me directly.
+Laying at the heart of my previous work is manipulative experiments, especially focusing on host-parasitoid systems. I study species interactions and how they influence insects' response and adaptation to climate change within interconnected biological communities. Moving back, I am continuing working with the fantastic <i>Drosophila</i>-parasitoid system, while also exploring new systems and topics focusing on the intersection of species interaction, environmental physiology and evolutionary biology. 
 
-My PhD studies also used this system to study thermal responses across different biological levels (i.e. organisms, populations, and communities). I have applied this knowledge to better understand species distribution and coexistence. Previously in my undergraduate study, I explored multiple research topics such as neurobiology, population genetics and biodiversity conservation. My undergraduate thesis was on individual-based simulation to infer the dispersal patterns of the white-headed langur.
+Long time ago, I have explored multiple research topics such as neurobiology, population genetics and biodiversity conservation. My undergraduate thesis was on individual-based simulation to infer the dispersal patterns of the white-headed langur.
 
 
 ### Contact
-My email is _jinlin.chen (at) biology.ox.ac.uk_
+My email is _jlchen (at) nju.edu.cn_
 
-<p style="font-size:80%; color:#7a7a7a; text-align:center;">
-  Special thanks to Emilien Dupont for help with the website~
+<p style="font-size:60%; color:#7a7a7a; text-align:center;">
+  Special thanks to Emilien Dupont for help with the website.
 </p>
